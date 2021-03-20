@@ -16,6 +16,7 @@ Entrez.email = "curiousgeorge@ufl.edu"
 # WHAT DO:
 # User creates a file the specifies what sequences we're going to send/search in genbank
 # Look into XML file format for genbank location tags.
+# Make it do stuff from BLAST!
 
 # TODO: For development CAN GET RID OF
 query = "cantharellus minor"
